@@ -36,3 +36,6 @@ This system can be used by:
 ## Project Goal
 
 To demonstrate how businesses can turn website visitors into qualified leads using a simple digital funnel.
+## Project Preview
+
+![Landing Page Preview](assets/images/landing-preview.png)
