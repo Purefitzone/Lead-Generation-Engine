@@ -5,7 +5,7 @@ e.preventDefault();
 const name = document.querySelector("input[type='text']").value;
 const email = document.querySelector("input[type='email']").value;
 
-fetch("https://hook.us2.make.com/pwopi0r8ufitjcm3qoaybutp1alj6ud5", {
+fetch("https://hook.make.com/pwopi0r8ufitjcm3qoaybutp1alj6ud5", {
 
 method: "POST",
 
