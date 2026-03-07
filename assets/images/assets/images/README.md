@@ -1,3 +1,6 @@
+## Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://purefitzone.github.io/lead-generation-engine)
 # Lead Generation Engine
 
 This project demonstrates a simple lead generation system designed to capture customer information through a landing page.
