@@ -1,3 +1,4 @@
+<form id="leadform">
 document.getElementById("leadForm").addEventListener("submit", function(e){
 e.preventDefault();
 const name = document.querySelector("input[type='text']").value;
